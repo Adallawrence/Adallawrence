@@ -8,7 +8,7 @@
 <body>
 <div class="container">
   <div class="nav">
-    <h2>Ollie</h2>
+    <h2>Hermit Wald</h2>
     <ul>
       <li>Home</li>
       <li>Archive</li>
